@@ -1,0 +1,84 @@
+.myclass * { outline: 1px dotted red ;min-width:20px;min-height:20px}
+.myclass * * { outline: 1px  dashed green ;min-width:20px;min-height:20px}
+.myclass * * * { outline: 1px dotted orange ;min-width:20px;min-height:20px}
+.myclass * * * * { outline: 1px dashed blue ;min-width:20px;min-height:20px}
+.myclass * * * * * { outline: 1px dotted red ;min-width:20px;min-height:20px}
+.myclass * * * * * * { outline: 1px solid green ;min-width:20px;min-height:20px}
+.myclass * * * * * * * { outline: 1px solid orange ;min-width:20px;min-height:20px}
+.myclass* * * * * * * * { outline: 1px solid blue ;min-width:20px;min-height:20px}
+.stencies h1, .stencies h2,  .stencies h3,  .stencies h4{padding:0;margin:0;clear:none}
+.stencies{display:table;clear:both;width:100%;margin-bottom:20px;text-align:left;}
+.stencies img{padding:0}
+.stencies .clearboth{width:100%;clear:both;}
+.stencies ul{margin:0;padding:0;display:table}
+
+.aligncenter, div.aligncenter {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.wp-caption {
+	background-color: #f3f3f3;
+	border: 1px solid #ddd;
+	-khtml-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px; /* optional rounded corners for browsers that support it */
+	margin: 10px;
+	padding-top: 4px;
+	text-align: center;
+}
+.wp-caption img {
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+
+/* preset styles */
+.border_style_dash {border-style:dashed;}
+.border_red{border-color:#FF0000;border}
+.border_width_5{border-width:5px}
+/* end preset styles */
+/* end v3 upgrade   */
+
+/* preset styles */
+.bor_style_dash {border-style:dashed;}
+.bor_red{border-color:#FF0000;border}
+.bor_width_5{border-width:5px}
+
+.stencies .text_align_left{text-align:left}
+.stencies .text_align_right{text-align:right}
+.stencies .text_align_center{text-align: center}
+
+
+/* end preset styles */
+/* end v3 upgrade   */
+
+
+
+
+#tinymce{
+background-image:none !important;
+background-color:#fff !important;
+color:#000 !important;	
+	
+}
+
+
+
+
+
+
+  

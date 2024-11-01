@@ -1,0 +1,9 @@
+  
+#wp_fs_stencies{
+	background:url(../js/st_btn.png) no-repeat 2px 1px !important;
+	}
+	
+#wp_fs_grid{
+		background:url(../js/grid_btn.png) no-repeat 2px 1px !important;
+}
+#wp_fs_stencies:hover,#wp_fs_grid:hover{background-position:2px -19px !important}

@@ -1,0 +1,163 @@
+body{background: url("../images/box-bgr.gif") repeat-x scroll center top ;position:relative; }
+#header{float:left;border-bottom:3px solid #999;width:100%;margin-bottom:30px;margin-top:27px;}
+
+.sel_btn{width:100%;float:left;height:50px;}
+.sel_form{margin:0;padding:0;/*clear:both;width:100%;height:70px;border-top:#CCC 3px dashed;display:block*/}
+.button{margin:8px 8px;}
+.sel_ta{visibility:hidden;width:1px;height:1px}
+.title{width:400px;color:#666;font-size:18px;float:left;margin:8px;font-weight: bold;line-height: 1.3em;width: 400px;text-align:left;} 
+#posts, #paging{margin-left:auto;margin-right:auto;width:700px;} 
+.hidden{display:none}
+
+.button{
+		float:right;
+
+}
+
+.button:active, .submit input:active, .button-secondary:active {
+    background: url("../../images/white-grad-active.png") repeat-x scroll left top #EEEEEE;
+
+}
+.post-type{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CFCFCF;
+    display: table;
+    height: 1%;
+    margin: 37px auto 0 auto;
+    width: 100%;
+	clear:both;
+	background: url("../images/box-bgr.gif") repeat-x scroll center top  #FFFFFF;
+	text-align:center;
+}
+
+.inwrp{
+display:inline-block;
+}
+
+.meta{  
+	margin-top:20px;
+	background: url("../images/box-bgr.gif") repeat-x scroll center top #F1F1F1;
+	clear: both;
+    display: table;
+	width:100%;
+	color: #404040;
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+	font-style:italic;
+	font-size:11px;
+	text-align:left;
+	
+}
+.meta p{  padding:5px 15px;}
+
+.metabot{
+width:100%;
+background: url("../images/box-bgr.gif") repeat-x scroll center top #F1F1F1;
+float:left;
+}
+
+
+
+.brwrs{
+
+float:right;
+text-align:right;
+margin:0;
+width:200px;
+padding:0 5px 5px;
+height:32px
+}
+.credit{
+
+padding:5px;
+	color: #404040;
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+	font-style:italic;
+	font-size:11px;
+	text-align:left;
+	width: 400px;
+	margin-top:10px;
+
+}
+
+.credit a,#paging a{
+		text-decoration:none;
+		color: #404040;
+}
+
+.brwrs img{vertical-align:text-bottom;}
+.brwrs img:hover{height:32px;width:32px}
+
+.spinner{text-align:center;padding-top:150px;}
+
+/*  nav bar */
+
+#content{
+	position:relative;
+}
+
+#paging{
+    bottom:0px;
+	right:0px;
+	width:100%;
+	margin-left:-10px;
+	background-color:#FFF;
+	height:13px;
+	padding:3px 10px;
+	position:fixed;
+	border-top:1px dotted #E5E5E5;
+	}
+
+.pagebar {
+font-family:Arial,Helvetica,sans-serif;
+font-size:11px;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+margin:0px;
+padding-bottom:5px;
+/*padding-top:10px;*/
+text-align:right;
+}
+.pagebar a, .pageList .this-page {
+background:#FFFFFF none repeat scroll 0%;
+border:1px solid #DDDDDD;
+padding:0px 6px;
+text-decoration:none;
+}
+.pagebar a:visited {
+background:#FFFFFF none repeat scroll 0%;
+border:1px solid #DDDDDD;
+padding:2px 6px;
+text-decoration:none;
+}
+.pagebar .break {
+
+
+
+background:#FFFFFF none repeat scroll 0%;
+
+border:medium none;
+padding:2px 6px;
+text-decoration:none;
+}
+.pagebar .this-page {
+
+background:#FFFFFF none repeat scroll 0%;
+border-color:#999999;
+font-weight:bold;
+padding:2px 6px;
+vertical-align:top;
+}
+.pagebar a:hover {
+background:#ccc none repeat scroll 0%;
+border-color:#000000;
+color:#FFFFFF;
+text-decoration:none;
+}
+
+#social{
+float:right !important;	
+}

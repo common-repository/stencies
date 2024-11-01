@@ -1,0 +1,26 @@
+/* reset CSS*/
+
+.stencies h1, .stencies h2,  .stencies h3,  .stencies h4{padding:0;margin:0;clear:none}
+.stencies{display:table;clear:both;width:100%;margin-bottom:20px;text-align:left;}
+.stencies img{padding:0}
+.stencies .clearboth{width:100%;clear:both;}
+.stencies ul{margin:0;padding:0;display:table}
+
+.aligncenter, div.aligncenter {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+/* V2 */
+
+
+
+
+
